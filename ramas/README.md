@@ -1,3 +1,0 @@
-#tareax
-hola mundo
-......!!
